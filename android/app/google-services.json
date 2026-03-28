@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "340946878582",
+    "project_id": "whizkids-4e220",
+    "storage_bucket": "whizkids-4e220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340946878582:android:4be0e6978473db7b51df57",
+        "android_client_info": {
+          "package_name": "com.whizkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340946878582-oakd8h7d7446qoh7d0g59d165kop48rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whizkids",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "340946878582-je5kkogb70neteksnpio4lpk4r5b9qk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DhvQ9M3_f2uX6Tanlkjd4_u_vfiKuJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340946878582-je5kkogb70neteksnpio4lpk4r5b9qk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
